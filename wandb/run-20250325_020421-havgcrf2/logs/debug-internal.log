@@ -1,0 +1,16 @@
+{"time":"2025-03-25T02:04:21.6524792+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-03-25T02:04:21.6530404+05:30","level":"INFO","msg":"created symlink","path":"D:\\Internship\\deepseek_finetune\\wandb\\run-20250325_020421-havgcrf2\\logs\\debug-core.log"}
+{"time":"2025-03-25T02:04:22.1487465+05:30","level":"INFO","msg":"created new stream","id":"havgcrf2"}
+{"time":"2025-03-25T02:04:22.1487465+05:30","level":"INFO","msg":"stream: started","id":"havgcrf2"}
+{"time":"2025-03-25T02:04:22.1487465+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"havgcrf2"}
+{"time":"2025-03-25T02:04:22.1492546+05:30","level":"INFO","msg":"sender: started","stream_id":"havgcrf2"}
+{"time":"2025-03-25T02:04:22.1487465+05:30","level":"INFO","msg":"handler: started","stream_id":"havgcrf2"}
+{"time":"2025-03-25T02:04:22.5918183+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-25T02:04:25.2275785+05:30","level":"INFO","msg":"stream: closing","id":"havgcrf2"}
+{"time":"2025-03-25T02:04:25.2275785+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-25T02:04:25.2283445+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-25T02:04:27.4134289+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-25T02:04:27.8033194+05:30","level":"INFO","msg":"handler: closed","stream_id":"havgcrf2"}
+{"time":"2025-03-25T02:04:27.8033194+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"havgcrf2"}
+{"time":"2025-03-25T02:04:27.8033194+05:30","level":"INFO","msg":"sender: closed","stream_id":"havgcrf2"}
+{"time":"2025-03-25T02:04:27.8038284+05:30","level":"INFO","msg":"stream: closed","id":"havgcrf2"}
