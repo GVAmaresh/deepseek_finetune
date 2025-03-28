@@ -16,7 +16,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
-    bnb_4bit_compute_dtype="float16",  # Ensure it matches your hardware
+    bnb_4bit_compute_dtype="float16",  
     bnb_4bit_use_double_quant=True,
     bnb_4bit_quant_type="nf4"
 )

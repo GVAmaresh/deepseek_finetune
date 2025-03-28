@@ -1,8 +1,14 @@
-unsloth 
-kaggle 
-wandb 
-git+https://github.com/unslothai/unsloth.git --no-cache-dir --no-deps --force-reinstall
-torch 
-torchvision 
-torchaudio --index-url https://download.pytorch.org/whl/cu121
-
+unsloth
+kaggle
+wandb
+git+https://github.com/unslothai/unsloth.git
+torch
+torchvision
+torchaudio
+huggingface_hub
+ninja
+cmake
+wheel
+unsloth_zoo
+bitsandbytes
+triton
